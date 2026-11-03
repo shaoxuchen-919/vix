@@ -1,6 +1,8 @@
 {
-  "last_checked_date": "2026-10-30",
-  "last_vix_close": 19.42,
-  "last_crossing_dates": [],
-  "updated_at_utc": "2026-10-31T01:51:05+00:00"
+  "last_checked_date": "2026-11-02",
+  "last_vix_close": 21.15,
+  "last_crossing_dates": [
+    "2026-11-02"
+  ],
+  "updated_at_utc": "2026-11-03T03:43:00+00:00"
 }
